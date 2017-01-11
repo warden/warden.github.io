@@ -192,6 +192,9 @@ Notes:
 * [Lemur manages TLS certificate creation.](https://github.com/Netflix/lemur)
 * [BLESS - SSH Certificate Authority](https://github.com/Netflix/bless)
 * [CFSSL](https://github.com/cloudflare/cfssl) - CloudFoundry's PKI and TLS toolkit
+* [OpenXPKI in Docker](https://github.com/jetpulp/docker-openxpki)
+* [Easy RSA - simple shell based CA utility](https://github.com/OpenVPN/easy-rsa)
+* [FreeIPA in Docker - RedHat Dogtag PKI CA solution](http://pki.fedoraproject.org/wiki/PKI_Install_Guide)
 
 
 ## Web Development
