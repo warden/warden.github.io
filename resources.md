@@ -27,11 +27,16 @@ Useful DEVOPS Technology, Tools and Know-How
 
 
 ## Monitoring
+
 * [Prometheus](https://github.com/prometheus/blackbox_exporter)
 * [Prometheus Blackbox exporter -  allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP](https://github.com/prometheus/blackbox_exporter)
 * [Prometheus Node exporter - exporter for machine metrics](https://github.com/prometheus/node_exporter)
 * [Prometheus haproxy exporter](https://github.com/prometheus/haproxy_exporter)
 * [Prometheus memcached exporter](https://github.com/prometheus/memcached_exporter)
+
+ElasticSearch:
+
+* [Curated list of ELK resources](https://github.com/dzharii/awesome-elasticsearch)
 
 
 ## Development
