@@ -33,6 +33,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Prometheus Node exporter - exporter for machine metrics](https://github.com/prometheus/node_exporter)
 * [Prometheus haproxy exporter](https://github.com/prometheus/haproxy_exporter)
 * [Prometheus memcached exporter](https://github.com/prometheus/memcached_exporter)
+* [Bosun - monitoring system by StackExchange](https://bosun.org/)
 
 ElasticSearch:
 
@@ -201,6 +202,12 @@ Notes:
 * [Easy RSA - simple shell based CA utility](https://github.com/OpenVPN/easy-rsa)
 * [FreeIPA in Docker - RedHat Dogtag PKI CA solution](http://pki.fedoraproject.org/wiki/PKI_Install_Guide)
 
+## Project Management
+
+### JIRA
+
+* [JIRA with YAML interface](https://github.com/ninowalker/jira-yaml)
+* [JIRA Auto-complete custom field](https://confluence.atlassian.com/jirakb/how-to-enable-autocomplete-renderer-for-multi-select-custom-field-in-jira-754978239.html)
 
 ## Web Development
 
