@@ -35,15 +35,25 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Prometheus memcached exporter](https://github.com/prometheus/memcached_exporter)
 * [Bosun - monitoring system by StackExchange](https://bosun.org/)
 
-ElasticSearch:
+### Infrastructure Testing
+
+* [ServerSpec](http://serverspec.org/)
+* [TestInfra](https://testinfra.readthedocs.io/)
+
+
+### ElasticSearch:
 
 * [Curated list of ELK resources](https://github.com/dzharii/awesome-elasticsearch)
-
 
 ## Development
 
 * [Google Protocol Buffers](https://developers.google.com/protocol-buffers/)
 * [ProtoBuf for Go](https://github.com/golang/protobuf)
+
+## Testing
+
+* [Appium is an open source test automation framework for use with native, hybrid and mobile web apps](http://appium.io/_
+
 
 ### Java
 
@@ -87,6 +97,15 @@ Per [RFC4346](http://tools.ietf.org/html/rfc4346#section-7.4.2) the certs should
 
 ```
 $ openssl crl2pkcs7 -nocrl -certfile CHAINED.pem | openssl pkcs7 -print_certs -text -noout
+```
+
+### Split certificates from bundle to separate files
+
+```
+awk '
+  split_after == 1 {n++;split_after=0}
+  /-----END CERTIFICATE-----/ {split_after=1}
+  {print > "cert" n ".pem"}' < chain.pem
 ```
 
 ### Show certificate expiration date with s_client
