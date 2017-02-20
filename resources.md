@@ -72,7 +72,7 @@ Useful DEVOPS Technology, Tools and Know-How
 ### Kubernetes
 
 * [etcd cluster setup and recovery](https://github.com/coreos/etcd-operator)
-
+* [k8s Namespace watcher for network namespace isolation](https://github.com/30x/congress)
 
 ## SSL Related Stuff
 
