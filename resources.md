@@ -238,3 +238,9 @@ Notes:
 
 * [The Reactive Extensions for JavaScript (RxJS) 4.0](https://github.com/Reactive-Extensions/RxJS)
 
+
+## Checklists
+
+* [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
+
+
