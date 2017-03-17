@@ -26,7 +26,7 @@ ROOT
 we can build it at once using MSBuild. Lets create a *builder.proj* file
 
 
-{% highlight bash %}
+{% highlight xml %}
 <?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" >
 <ItemGroup>
