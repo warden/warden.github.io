@@ -43,10 +43,20 @@ $ /opt/xensource/bin/xe-edit-bootloader -u fe661727-70e8-b2aa-8222-5548cf29456b 
 {% endhighlight %}
 
 1. Comment out any submenu sections completely, leave only the default newest kernel.
-2. Note down the 1/ kernel path, 2/ the initramdisk path and 3/ the root partition UUID/path, example:
+2. Note down the:
+-  kernel path
+- the initramdisk path
+- the root partition UUID/path
+
+{% highlight bash %}
+        echo    'Loading Linux 3.2.0-4-amd64 ...'
+        linux   /boot/vmlinuz-3.2.0-4-amd64 root=UUID=3c43ad39-f91b-4beb-a09d-2ba37a6d0e11 ro console=hvc0 quiet
+        echo    'Loading initial ramdisk ...'
+        initrd  /boot/initrd.img-3.2.0-4-amd64
+{% endhighlight %}
 
 
-Now, just in case, note down VM params before changing them:
+3. Now, just in case, note down VM params before changing them:
 
 {% highlight bash %}
 $ xe vm-param-get  uuid=fe661727-70e8-b2aa-8222-5548cf29456b param-name=PV-bootloader
@@ -57,14 +67,14 @@ $ xe vm-param-get  uuid=fe661727-70e8-b2aa-8222-5548cf29456b param-name=PV-args
 -- quiet console=hvc0
 {% endhighlight %}
 
-And set the boot params for the VM with previously noted values:
+4. Set the boot params for the VM with previously noted values:
 
 {% highlight bash %}
 $ xe vm-param-set  uuid=fe661727-70e8-b2aa-8222-5548cf29456b PV-bootloader-args="--kernel=/boot/vmlinuz-3.2.0-4-amd64 --ramdisk=/boot/initrd.img-3.2.0-4-amd64"
 $ xe vm-param-set  uuid=fe661727-70e8-b2aa-8222-5548cf29456b PV-args="-- root=UUID=299b9872-0c06-4d84-9b2b-6196db648c1b quiet console=hvc0"
 {% endhighlight %}
 
-Now you should be able to start the VM:
+5. Now you should be able to start the VM:
 ```
 xe vm-start vm=<name>
 ```
