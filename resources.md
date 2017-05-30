@@ -69,6 +69,8 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Cloud Platform Benchmarks](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
 * [ElasticSearch Web Admin](https://github.com/lmenezes/elasticsearch-kopf)
 * [OPNSense firewall](https://opnsense.org/)
+* [Google self-hosted Git service](https://github.com/gogits/gogs)
+* [GitLab CE - hosted Git and CI service](https://about.gitlab.com/)
 
 ### Kubernetes
 
