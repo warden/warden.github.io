@@ -8,12 +8,13 @@ Useful DEVOPS Technology, Tools and Know-How
 ============================================
 
 * [Monitoring](#monitoring)
+   * [Dashboards](#dashboards)
 * [Development](#development)
    * [Java](#java)
 * [Platforms](#platforms)
    * [Platform Tools](#platform-tools)
    * [Kubernetes](#kubernetes)
-* [SSL Related Stuff](#ssl-related-stuff)
+* [SSL Stuff](#ssl-related-stuff)
    * [Order of certificates in the bundle (.pem) file](#order-of-certificates-in-the-bundle-pem-file)
    * [Display all certificates in bundle (.pem) file](#display-all-certificates-in-bundle-pem-file)
    * [Show certificate expiration date with s_client](#show-certificate-expiration-date-with-s_client)
@@ -250,4 +251,11 @@ Notes:
 
 * [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
 
+## Compliance
+
+* [WebCompat | Report a Bug in Browser](https://webcompat.com/)
+
+### Good Practices
+
+* [Google's Open Source documentation model](https://opensource.google.com/docs/)
 
