@@ -253,7 +253,7 @@ Notes:
 
 ## Compliance
 
-* [WebCompat | Report a Bug in Browser](https://webcompat.com/)
+* [WebCompat - Report a Bug in Browser](https://webcompat.com/)
 
 ### Good Practices
 
