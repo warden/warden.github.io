@@ -7,26 +7,6 @@ permalink: /resources
 Useful DEVOPS Technology, Tools and Know-How
 ============================================
 
-* [Monitoring](#monitoring)
-   * [Dashboards](#dashboards)
-* [Development](#development)
-   * [Java](#java)
-* [Platforms](#platforms)
-   * [Platform Tools](#platform-tools)
-   * [Kubernetes](#kubernetes)
-* [SSL Stuff](#ssl-related-stuff)
-   * [Order of certificates in the bundle (.pem) file](#order-of-certificates-in-the-bundle-pem-file)
-   * [Display all certificates in bundle (.pem) file](#display-all-certificates-in-bundle-pem-file)
-   * [Show certificate expiration date with s_client](#show-certificate-expiration-date-with-s_client)
-   * [One-Stop-Shop: Generating root CA cert and signing a cert with openssl](#one-stop-shop-generating-root-ca-cert-and-signing-a-cert-with-openssl)
-   * [Generating 4096 bits RSA key](#generating-4096-bits-rsa-key)
-   * [Generating ECDSA key](#generating-ecdsa-key)
-   * [PKI / CA Tools](#pki--ca-tools)
-* [Web Development](#web-development)
-   * [Design resources](#design-resources)
-   * [JavaScript](#javascript)
-
-
 ## Monitoring
 
 * [Prometheus](https://github.com/prometheus/blackbox_exporter)
@@ -35,12 +15,6 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Prometheus haproxy exporter](https://github.com/prometheus/haproxy_exporter)
 * [Prometheus memcached exporter](https://github.com/prometheus/memcached_exporter)
 * [Bosun - monitoring system by StackExchange](https://bosun.org/)
-
-
-### Cloud Resources
-
-* [Google Cloud function examples](https://github.com/jasonpolites/gcf-recipes)
-
 
 ### Dashboards
 
@@ -61,27 +35,30 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Google Protocol Buffers](https://developers.google.com/protocol-buffers/)
 * [ProtoBuf for Go](https://github.com/golang/protobuf)
 
+### Java
+
+* [Spring Boot](https://projects.spring.io/spring-boot/)
+
+## Cloud Resources
+
+* [Google Cloud function examples](https://github.com/jasonpolites/gcf-recipes)
+
 ## Testing
 
 * [Appium is an open source test automation framework for use with native, hybrid and mobile web apps](http://appium.io/_
 
 
-### Java
 
-* [Spring Boot](https://projects.spring.io/spring-boot/)
 
-## Platforms
-
-* [Shippable - A declarative CI/CD pipeline for the Modern IT](https://app.shippable.com)
-* [StackPoint - The Universal Control Plane for Kubernetes](https://api.stackpoint.io)
-
-### Platform Tools
+## Platform Tools
 
 * [Cloud Platform Benchmarks](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
 * [ElasticSearch Web Admin](https://github.com/lmenezes/elasticsearch-kopf)
 * [OPNSense firewall](https://opnsense.org/)
 * [Google self-hosted Git service](https://github.com/gogits/gogs)
 * [GitLab CE - hosted Git and CI service](https://about.gitlab.com/)
+* [Shippable - A declarative CI/CD pipeline for the Modern IT](https://app.shippable.com)
+* [StackPoint - The Universal Control Plane for Kubernetes](https://api.stackpoint.io)
 
 ### Kubernetes
 
