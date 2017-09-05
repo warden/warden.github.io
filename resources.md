@@ -36,6 +36,12 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Prometheus memcached exporter](https://github.com/prometheus/memcached_exporter)
 * [Bosun - monitoring system by StackExchange](https://bosun.org/)
 
+
+### Cloud Resources
+
+* [Google Cloud function examples](https://github.com/jasonpolites/gcf-recipes)
+
+
 ### Dashboards
 
 * [OpenSource Status Page](https://cachethq.io/)
