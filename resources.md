@@ -7,6 +7,13 @@ permalink: /resources
 Useful DEVOPS Technology, Tools and Know-How
 ============================================
 
+## Agile / 
+
+* [Agile Retrospective Ideas](https://luis-goncalves.com/agile-retrospectives-ideas-exercises/)
+* [Sailboat Retrospective](https://luis-goncalves.com/sailboat-exercise-sailboat-retrospective/)
+* [SCRUM and RACI](http://techblog.constantcontact.com/software-development/scrum-and-raci/)
+
+
 ## Monitoring
 
 * [Prometheus](https://github.com/prometheus/blackbox_exporter)
@@ -24,6 +31,7 @@ Useful DEVOPS Technology, Tools and Know-How
 
 * [ServerSpec](http://serverspec.org/)
 * [TestInfra](https://testinfra.readthedocs.io/)
+* [InSpec: Auditing and test framework](https://github.com/chef/inspec)
 
 
 ### ElasticSearch:
