@@ -12,7 +12,8 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Agile Retrospective Ideas](https://luis-goncalves.com/agile-retrospectives-ideas-exercises/)
 * [Sailboat Retrospective](https://luis-goncalves.com/sailboat-exercise-sailboat-retrospective/)
 * [SCRUM and RACI](http://techblog.constantcontact.com/software-development/scrum-and-raci/)
-
+* [User Story Mapping #1](https://www.scrumalliance.org/community/articles/2013/august/creating-an-agile-roadmap-using-story-mapping)
+* [User story Mapping #2](http://jpattonassociates.com/user-story-mapping/)
 
 ## Monitoring
 
