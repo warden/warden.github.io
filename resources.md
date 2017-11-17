@@ -23,6 +23,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Prometheus haproxy exporter](https://github.com/prometheus/haproxy_exporter)
 * [Prometheus memcached exporter](https://github.com/prometheus/memcached_exporter)
 * [Bosun - monitoring system by StackExchange](https://bosun.org/)
+* [StageMonitor - an open source solution to application performance monitoring for java server applications](http://www.stagemonitor.org)
 
 ### Dashboards
 
