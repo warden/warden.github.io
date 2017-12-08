@@ -36,7 +36,12 @@ Useful DEVOPS Technology, Tools and Know-How
 * [InSpec: Auditing and test framework](https://github.com/chef/inspec)
 
 
-### ElasticSearch:
+### Docker Images (aka useful!)
+
+* [Marathon Amazon AWS CLI](https://hub.docker.com/r/mesosphere/aws-cli/)
+
+
+### ElasticSearch
 
 * [Curated list of ELK resources](https://github.com/dzharii/awesome-elasticsearch)
 
@@ -71,6 +76,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [GitLab CE - hosted Git and CI service](https://about.gitlab.com/)
 * [Shippable - A declarative CI/CD pipeline for the Modern IT](https://app.shippable.com)
 * [StackPoint - The Universal Control Plane for Kubernetes](https://api.stackpoint.io)
+* [Fabric8 - complete development environment on OpenShift/Kubernetes](https://fabric8.io)
 
 ### Kubernetes
 
