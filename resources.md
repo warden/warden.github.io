@@ -60,7 +60,9 @@ Useful DEVOPS Technology, Tools and Know-How
 
 ## Testing
 
-* [Appium is an open source test automation framework for use with native, hybrid and mobile web apps](http://appium.io/_
+* [Appium is an open source test automation framework for use with native, hybrid and mobile web apps](http://appium.io/)
+* [PhantomJS - PhantomJS is a headless WebKit scriptable with a JavaScript API](http://phantomjs.org)
+* [FoxShot - capture screenshots with Headless Firefox](https://github.com/potch/foxshot)
 
 ## Security
 
