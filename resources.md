@@ -63,6 +63,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Appium is an open source test automation framework for use with native, hybrid and mobile web apps](http://appium.io/)
 * [PhantomJS - PhantomJS is a headless WebKit scriptable with a JavaScript API](http://phantomjs.org)
 * [FoxShot - capture screenshots with Headless Firefox](https://github.com/potch/foxshot)
+* [Free Live Cloud Testing of Microsoft Edge](https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud)
 
 ## Security
 
