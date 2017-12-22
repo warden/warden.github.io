@@ -81,6 +81,11 @@ Useful DEVOPS Technology, Tools and Know-How
 * [StackPoint - The Universal Control Plane for Kubernetes](https://api.stackpoint.io)
 * [Fabric8 - complete development environment on OpenShift/Kubernetes](https://fabric8.io)
 
+
+## Logging
+
+* [GoAccess - real time log analyzer](https://goaccess.io/)
+
 ### Kubernetes
 
 * [etcd cluster setup and recovery](https://github.com/coreos/etcd-operator)
