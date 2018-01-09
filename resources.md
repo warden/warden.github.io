@@ -264,6 +264,12 @@ Notes:
 
 * [WebCompat - Report a Bug in Browser](https://webcompat.com/)
 
+
+## Desktop Tools
+
+* [Cryptomator - Free client-side encryption for your cloud files](https://cryptomator.org/)
+
+
 ### Good Practices
 
 * [Google's Open Source documentation model](https://opensource.google.com/docs/)
