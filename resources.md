@@ -85,7 +85,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Shippable - A declarative CI/CD pipeline for the Modern IT](https://app.shippable.com)
 * [StackPoint - The Universal Control Plane for Kubernetes](https://api.stackpoint.io)
 * [Fabric8 - complete development environment on OpenShift/Kubernetes](https://fabric8.io)
-
+* [DNS as code - Tools for managing DNS across multiple providers](https://github.com/github/octodns)
 
 ## Logging
 
@@ -269,7 +269,6 @@ Notes:
 
 * [WebCompat - Report a Bug in Browser](https://webcompat.com/)
 
-
 ## Desktop Tools
 
 * [Cryptomator - Free client-side encryption for your cloud files](https://cryptomator.org/)
@@ -279,3 +278,6 @@ Notes:
 
 * [Google's Open Source documentation model](https://opensource.google.com/docs/)
 
+### IoT - Internet Of Things 
+
+* [Shodan is the world's first search engine for Internet-connected devices.](https://www.shodan.io)
