@@ -7,7 +7,7 @@ permalink: /resources
 Useful DEVOPS Technology, Tools and Know-How
 ============================================
 
-## Agile / 
+## Agile 
 
 * [Agile Retrospective Ideas](https://luis-goncalves.com/agile-retrospectives-ideas-exercises/)
 * [Sailboat Retrospective](https://luis-goncalves.com/sailboat-exercise-sailboat-retrospective/)
@@ -15,7 +15,10 @@ Useful DEVOPS Technology, Tools and Know-How
 * [User Story Mapping #1](https://www.scrumalliance.org/community/articles/2013/august/creating-an-agile-roadmap-using-story-mapping)
 * [User story Mapping #2](http://jpattonassociates.com/user-story-mapping/)
 
-## Monitoring
+
+## Infrastructure
+
+### Monitoring
 
 * [Prometheus](https://github.com/prometheus/blackbox_exporter)
 * [Prometheus Blackbox exporter -  allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP](https://github.com/prometheus/blackbox_exporter)
@@ -24,9 +27,6 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Prometheus memcached exporter](https://github.com/prometheus/memcached_exporter)
 * [Bosun - monitoring system by StackExchange](https://bosun.org/)
 * [StageMonitor - an open source solution to application performance monitoring for java server applications](http://www.stagemonitor.org)
-
-### Dashboards
-
 * [OpenSource Status Page](https://cachethq.io/)
 
 ### Infrastructure Testing
@@ -35,47 +35,11 @@ Useful DEVOPS Technology, Tools and Know-How
 * [TestInfra](https://testinfra.readthedocs.io/)
 * [InSpec: Auditing and test framework](https://github.com/chef/inspec)
 
-
-### Docker Images (aka useful!)
-
-* [Marathon Amazon AWS CLI](https://hub.docker.com/r/mesosphere/aws-cli/)
-
-
-### ElasticSearch
+### Deployment Logging
 
 * [Curated list of ELK resources](https://github.com/dzharii/awesome-elasticsearch)
 
-## Development
-
-* [Google Protocol Buffers](https://developers.google.com/protocol-buffers/)
-* [ProtoBuf for Go](https://github.com/golang/protobuf)
-
-### Java
-
-* [Spring Boot](https://projects.spring.io/spring-boot/)
-
-## Cloud Resources
-
-* [Google Cloud function examples](https://github.com/jasonpolites/gcf-recipes)
-
-## Testing
-
-* [Appium is an open source test automation framework for use with native, hybrid and mobile web apps](http://appium.io/)
-* [PhantomJS - PhantomJS is a headless WebKit scriptable with a JavaScript API](http://phantomjs.org)
-* [FoxShot - capture screenshots with Headless Firefox](https://github.com/potch/foxshot)
-* [Free Live Cloud Testing of Microsoft Edge](https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud)
-
-## Security
-
-* [OpenVAS - network scanning for vulnerabilities](http://www.openvas.org/)
-
-
-## Documentation
-
-* [Static Docs site generator](http://www.mkdocs.org/)
-* [MKDocs Material Theme](https://github.com/squidfunk/mkdocs-material)
-
-## Platform Tools
+### Platform Tools
 
 * [Cloud Platform Benchmarks](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
 * [ElasticSearch Web Admin](https://github.com/lmenezes/elasticsearch-kopf)
@@ -86,8 +50,26 @@ Useful DEVOPS Technology, Tools and Know-How
 * [StackPoint - The Universal Control Plane for Kubernetes](https://api.stackpoint.io)
 * [Fabric8 - complete development environment on OpenShift/Kubernetes](https://fabric8.io)
 * [DNS as code - Tools for managing DNS across multiple providers](https://github.com/github/octodns)
+* [Marathon Amazon AWS CLI](https://hub.docker.com/r/mesosphere/aws-cli/)
 
-## Logging
+
+### PKI / CA Tools
+
+* [Lemur manages TLS certificate creation.](https://github.com/Netflix/lemur)
+* [BLESS - SSH Certificate Authority](https://github.com/Netflix/bless)
+* [CFSSL](https://github.com/cloudflare/cfssl) - CloudFoundry's PKI and TLS toolkit
+* [OpenXPKI in Docker](https://github.com/jetpulp/docker-openxpki)
+* [Easy RSA - simple shell based CA utility](https://github.com/OpenVPN/easy-rsa)
+* [FreeIPA in Docker - RedHat Dogtag PKI CA solution](http://pki.fedoraproject.org/wiki/PKI_Install_Guide)
+
+
+### Security
+
+* [OpenVAS - network scanning for vulnerabilities](http://www.openvas.org/)
+* [Shodan is the world's first search engine for Internet-connected devices.](https://www.shodan.io)
+
+
+### Logging
 
 * [GoAccess - real time log analyzer](https://goaccess.io/)
 
@@ -95,6 +77,73 @@ Useful DEVOPS Technology, Tools and Know-How
 
 * [etcd cluster setup and recovery](https://github.com/coreos/etcd-operator)
 * [k8s Namespace watcher for network namespace isolation](https://github.com/30x/congress)
+
+
+## Development
+
+### Design resources
+
+* [https://html5up.net](https://html5up.net) - Nice HTML5 ready made designs 
+
+### Mobile
+
+#### Android
+
+* [Test-Butler - Reliable Android Testing, at your service](https://github.com/linkedin/test-butler)
+
+### Generic
+
+* [Google Protocol Buffers](https://developers.google.com/protocol-buffers/)
+* [ProtoBuf for Go](https://github.com/golang/protobuf)
+
+### JavaScript
+
+* [The Reactive Extensions for JavaScript (RxJS) 4.0](https://github.com/Reactive-Extensions/RxJS)
+
+### Web 
+
+* [Spring Boot](https://projects.spring.io/spring-boot/)
+
+### Cloud Resources
+
+* [Google Cloud function examples](https://github.com/jasonpolites/gcf-recipes)
+
+### Testing
+
+* [Appium is an open source test automation framework for use with native, hybrid and mobile web apps](http://appium.io/)
+* [PhantomJS - PhantomJS is a headless WebKit scriptable with a JavaScript API](http://phantomjs.org)
+* [FoxShot - capture screenshots with Headless Firefox](https://github.com/potch/foxshot)
+* [Free Live Cloud Testing of Microsoft Edge](https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud)
+
+
+
+## Project Management
+
+* [JIRA with YAML interface](https://github.com/ninowalker/jira-yaml)
+* [JIRA Auto-complete custom field](https://confluence.atlassian.com/jirakb/how-to-enable-autocomplete-renderer-for-multi-select-custom-field-in-jira-754978239.html)
+
+
+## Desktop Tools
+
+* [Cryptomator - Free client-side encryption for your cloud files](https://cryptomator.org/)
+
+
+## Documentation
+
+* [Static Docs site generator](http://www.mkdocs.org/)
+* [MKDocs Material Theme](https://github.com/squidfunk/mkdocs-material)
+* [Google's Open Source documentation model](https://opensource.google.com/docs/)
+
+
+### Checklists
+
+* [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
+
+### Compliance
+
+* [WebCompat - Report a Bug in Browser](https://webcompat.com/)
+
+
 
 ## SSL Related Stuff
 
@@ -234,50 +283,3 @@ Notes:
 * -nodes option means that the key will not be secured with a passphrase
 * -x509 option can be used if you wish to create a self-signed certificate
 
-### PKI / CA Tools
-
-* [Lemur manages TLS certificate creation.](https://github.com/Netflix/lemur)
-* [BLESS - SSH Certificate Authority](https://github.com/Netflix/bless)
-* [CFSSL](https://github.com/cloudflare/cfssl) - CloudFoundry's PKI and TLS toolkit
-* [OpenXPKI in Docker](https://github.com/jetpulp/docker-openxpki)
-* [Easy RSA - simple shell based CA utility](https://github.com/OpenVPN/easy-rsa)
-* [FreeIPA in Docker - RedHat Dogtag PKI CA solution](http://pki.fedoraproject.org/wiki/PKI_Install_Guide)
-
-## Project Management
-
-### JIRA
-
-* [JIRA with YAML interface](https://github.com/ninowalker/jira-yaml)
-* [JIRA Auto-complete custom field](https://confluence.atlassian.com/jirakb/how-to-enable-autocomplete-renderer-for-multi-select-custom-field-in-jira-754978239.html)
-
-## Web Development
-
-### Design resources
-
-* [https://html5up.net](https://html5up.net) - Nice HTML5 ready made designs 
-
-### JavaScript
-
-* [The Reactive Extensions for JavaScript (RxJS) 4.0](https://github.com/Reactive-Extensions/RxJS)
-
-
-## Checklists
-
-* [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
-
-## Compliance
-
-* [WebCompat - Report a Bug in Browser](https://webcompat.com/)
-
-## Desktop Tools
-
-* [Cryptomator - Free client-side encryption for your cloud files](https://cryptomator.org/)
-
-
-### Good Practices
-
-* [Google's Open Source documentation model](https://opensource.google.com/docs/)
-
-### IoT - Internet Of Things 
-
-* [Shodan is the world's first search engine for Internet-connected devices.](https://www.shodan.io)
