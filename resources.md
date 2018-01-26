@@ -95,6 +95,7 @@ Useful DEVOPS Technology, Tools and Know-How
 
 * [Google Protocol Buffers](https://developers.google.com/protocol-buffers/)
 * [ProtoBuf for Go](https://github.com/golang/protobuf)
+* [SWIG - interface compiler from C to Perl, Python, Ruby, and Tcl](http://www.swig.org)
 
 ### JavaScript
 
