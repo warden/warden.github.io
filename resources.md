@@ -52,6 +52,10 @@ Useful DEVOPS Technology, Tools and Know-How
 * [DNS as code - Tools for managing DNS across multiple providers](https://github.com/github/octodns)
 * [Marathon Amazon AWS CLI](https://hub.docker.com/r/mesosphere/aws-cli/)
 
+#### K8S resources
+
+* [MetalLB is a load-balancer implementation for bare metal Kubernetes clusters](https://metallb.universe.tf/)
+
 
 ### PKI / CA Tools
 
