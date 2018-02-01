@@ -122,6 +122,10 @@ Useful DEVOPS Technology, Tools and Know-How
 
 
 
+## Internet Of Things (IoT)
+
+* [Airly API - Airly builds networks of air quality sensors that can be deployed across entire cities or counties](https://airly.eu/en/)
+
 ## Project Management
 
 * [JIRA with YAML interface](https://github.com/ninowalker/jira-yaml)
