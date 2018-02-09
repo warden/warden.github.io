@@ -55,6 +55,8 @@ Useful DEVOPS Technology, Tools and Know-How
 #### K8S resources
 
 * [MetalLB is a load-balancer implementation for bare metal Kubernetes clusters](https://metallb.universe.tf/)
+* [Istio - An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
+* [Production-grade feature-rich service mesh for any platform](https://github.com/linkerd/linkerd)
 
 
 ### PKI / CA Tools
