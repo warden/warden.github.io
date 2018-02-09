@@ -57,6 +57,8 @@ Useful DEVOPS Technology, Tools and Know-How
 * [MetalLB is a load-balancer implementation for bare metal Kubernetes clusters](https://metallb.universe.tf/)
 * [Istio - An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
 * [Production-grade feature-rich service mesh for any platform](https://github.com/linkerd/linkerd)
+* [etcd cluster setup and recovery](https://github.com/coreos/etcd-operator)
+* [k8s Namespace watcher for network namespace isolation](https://github.com/30x/congress)
 
 
 ### PKI / CA Tools
@@ -78,11 +80,6 @@ Useful DEVOPS Technology, Tools and Know-How
 ### Logging
 
 * [GoAccess - real time log analyzer](https://goaccess.io/)
-
-### Kubernetes
-
-* [etcd cluster setup and recovery](https://github.com/coreos/etcd-operator)
-* [k8s Namespace watcher for network namespace isolation](https://github.com/30x/congress)
 
 
 ## Development
