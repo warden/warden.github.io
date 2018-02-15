@@ -75,6 +75,7 @@ Useful DEVOPS Technology, Tools and Know-How
 
 * [OpenVAS - network scanning for vulnerabilities](http://www.openvas.org/)
 * [Shodan is the world's first search engine for Internet-connected devices.](https://www.shodan.io)
+* [Cisofy - open source security and auditing tool](https://cisofy.com/lynis/)
 
 
 ### Logging
