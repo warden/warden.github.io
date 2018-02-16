@@ -103,7 +103,7 @@ Useful DEVOPS Technology, Tools and Know-How
 
 ### Profiling
 
-* [YT: DTrace](https://www.youtube.com/watch?v=1OMX69KOhGg)
+* [YT: DTrace](https://www.youtube.com/watch?v=1OMX69KOhGg), [Dtrace Guide](http://dtrace.org/guide), [DTrace Scripts repo](https://github.com/brendangregg/DTrace-book-scripts)
 
 
 ### JavaScript
