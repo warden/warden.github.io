@@ -101,6 +101,11 @@ Useful DEVOPS Technology, Tools and Know-How
 * [ProtoBuf for Go](https://github.com/golang/protobuf)
 * [SWIG - interface compiler from C to Perl, Python, Ruby, and Tcl](http://www.swig.org)
 
+### Profiling
+
+* [YT: DTrace](https://www.youtube.com/watch?v=1OMX69KOhGg)
+
+
 ### JavaScript
 
 * [The Reactive Extensions for JavaScript (RxJS) 4.0](https://github.com/Reactive-Extensions/RxJS)
