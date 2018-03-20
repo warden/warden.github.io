@@ -35,9 +35,11 @@ Useful DEVOPS Technology, Tools and Know-How
 * [TestInfra](https://testinfra.readthedocs.io/)
 * [InSpec: Auditing and test framework](https://github.com/chef/inspec)
 
-### Deployment Logging
+### Logging
 
 * [Curated list of ELK resources](https://github.com/dzharii/awesome-elasticsearch)
+* [GoAccess - real time log analyzer](https://goaccess.io/)
+
 
 ### Platform Tools
 
@@ -51,6 +53,8 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Fabric8 - complete development environment on OpenShift/Kubernetes](https://fabric8.io)
 * [DNS as code - Tools for managing DNS across multiple providers](https://github.com/github/octodns)
 * [Marathon Amazon AWS CLI](https://hub.docker.com/r/mesosphere/aws-cli/)
+* [Linux Performance Tools - cheatsheets](http://www.brendangregg.com/linuxperf.html)
+
 
 #### K8S resources
 
@@ -78,9 +82,10 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Cisofy - open source security and auditing tool](https://cisofy.com/lynis/)
 
 
-### Logging
+## Databases
 
-* [GoAccess - real time log analyzer](https://goaccess.io/)
+* [Microsoft SQL Server 2017 edition comparison](https://docs.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2017#includessnoversionincludesssnoversion-mdmd-editions)
+
 
 
 ## Development
@@ -135,6 +140,7 @@ Useful DEVOPS Technology, Tools and Know-How
 
 * [JIRA with YAML interface](https://github.com/ninowalker/jira-yaml)
 * [JIRA Auto-complete custom field](https://confluence.atlassian.com/jirakb/how-to-enable-autocomplete-renderer-for-multi-select-custom-field-in-jira-754978239.html)
+* [Asana - project management](https://asana.com)
 
 
 ## Desktop Tools
