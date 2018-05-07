@@ -56,6 +56,10 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Linux Performance Tools - cheatsheets](http://www.brendangregg.com/linuxperf.html)
 
 
+#### Jenkins - plugins
+
+* [Analyzes Jenkins workspace to find code analyzer report files, comments Bitbucket Server (or Stash) pull requests with code analyzer comments](https://github.com/jenkinsci/violation-comments-to-stash-plugin)
+
 #### K8S resources
 
 * [MetalLB is a load-balancer implementation for bare metal Kubernetes clusters](https://metallb.universe.tf/)
