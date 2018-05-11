@@ -89,6 +89,7 @@ Useful DEVOPS Technology, Tools and Know-How
 ## Databases
 
 * [Microsoft SQL Server 2017 edition comparison](https://docs.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2017#includessnoversionincludesssnoversion-mdmd-editions)
+* [JAVA in-memory database engine/framework](http://www.rapidclipse.com/de/jetstreamdb/)
 
 
 
