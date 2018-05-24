@@ -28,6 +28,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Bosun - monitoring system by StackExchange](https://bosun.org/)
 * [StageMonitor - an open source solution to application performance monitoring for java server applications](http://www.stagemonitor.org)
 * [OpenSource Status Page](https://cachethq.io/)
+* [SyncThing - Dropbox like Cloud Storage](https://syncthing.net/)
 
 ### Infrastructure Testing
 
