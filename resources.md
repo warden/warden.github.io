@@ -128,6 +128,7 @@ Useful DEVOPS Technology, Tools and Know-How
 ### Cloud Resources
 
 * [Google Cloud function examples](https://github.com/jasonpolites/gcf-recipes)
+* [Discover and List AWS resources CLI](https://github.com/nccgroup/aws-inventory)
 
 ### Testing
 
