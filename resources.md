@@ -41,6 +41,10 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Curated list of ELK resources](https://github.com/dzharii/awesome-elasticsearch)
 * [GoAccess - real time log analyzer](https://goaccess.io/)
 
+### Kubernetes
+
+* [Dynamic Secrets with HashiCorp Vault](https://github.com/fabriziocucci/spike-vault-kubernetes-auth-method)
+
 
 ### Platform Tools
 
