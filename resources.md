@@ -311,6 +311,15 @@ $ openssl req \
     -out certificate.csr
 ```
 
+
+### Docker Useful Commands
+
+*Show container restart policy*
+
+```
+docker inspect --format "{{.Id}} - {{.Name}} - {{.HostConfig.RestartPolicy.Name}}" $(docker ps -qf status=running) | sort -t, -k1 |column -t
+```
+
 Notes:
 * -nodes option means that the key will not be secured with a passphrase
 * -x509 option can be used if you wish to create a self-signed certificate
