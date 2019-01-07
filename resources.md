@@ -61,6 +61,10 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Linux Performance Tools - cheatsheets](http://www.brendangregg.com/linuxperf.html)
 
 
+#### BitBucket plugins
+
+* [Workzone: PullRequest Workflow](https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow)
+
 #### Jenkins - plugins
 
 * [Analyzes Jenkins workspace to find code analyzer report files, comments Bitbucket Server (or Stash) pull requests with code analyzer comments](https://github.com/jenkinsci/violation-comments-to-stash-plugin)
