@@ -15,6 +15,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [User Story Mapping #1](https://www.scrumalliance.org/community/articles/2013/august/creating-an-agile-roadmap-using-story-mapping)
 * [User story Mapping #2](http://jpattonassociates.com/user-story-mapping/)
 * [workast.io - one platform for connected project collaboration](https://www.workast.com/)
+* [menti.com - tool for post-presentation voting/assesment)(https://www.menti.com/)
 
 ## Infrastructure
 
