@@ -65,6 +65,7 @@ Useful DEVOPS Technology, Tools and Know-How
 #### BitBucket plugins
 
 * [Workzone: PullRequest Workflow](https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow)
+* [Charts and Graphs / Statistics](https://marketplace.atlassian.com/apps/1212147/charts-graphs-for-bitbucket)
 
 #### Jenkins - plugins
 
