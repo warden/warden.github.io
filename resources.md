@@ -61,6 +61,10 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Marathon Amazon AWS CLI](https://hub.docker.com/r/mesosphere/aws-cli/)
 * [Linux Performance Tools - cheatsheets](http://www.brendangregg.com/linuxperf.html)
 
+#### DevOps/ChatOps/Bots
+
+* [HubCommander for GitHub organisation management](https://github.com/Netflix/hubcommander)
+
 
 #### BitBucket plugins
 
