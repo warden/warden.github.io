@@ -7,7 +7,7 @@ permalink: /resources
 Useful DEVOPS Technology, Tools and Know-How
 ============================================
 
-## Agile / PM
+## Agile / PM / Work Tools
 
 * [Agile Retrospective Ideas](https://luis-goncalves.com/agile-retrospectives-ideas-exercises/)
 * [Sailboat Retrospective](https://luis-goncalves.com/sailboat-exercise-sailboat-retrospective/)
@@ -16,6 +16,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [User story Mapping #2](http://jpattonassociates.com/user-story-mapping/)
 * [workast.io - one platform for connected project collaboration](https://www.workast.com/)
 * [menti.com - tool for post-presentation voting/assesment)(https://www.menti.com/)
+* [Employee scheduling made easy](http://getsling.com)
 
 ## Infrastructure
 
