@@ -17,6 +17,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [workast.io - one platform for connected project collaboration](https://www.workast.com/)
 * [menti.com - tool for post-presentation voting/assesment)(https://www.menti.com/)
 * [Employee scheduling made easy](http://getsling.com)
+* [Event organiser assistant](https://splashthat.com/)
 
 ## Infrastructure
 
@@ -31,6 +32,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [StageMonitor - an open source solution to application performance monitoring for java server applications](http://www.stagemonitor.org)
 * [OpenSource Status Page](https://cachethq.io/)
 * [SyncThing - Dropbox like Cloud Storage](https://syncthing.net/)
+
 
 ### Infrastructure Testing
 
