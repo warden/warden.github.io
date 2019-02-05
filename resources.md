@@ -47,7 +47,6 @@ Useful DEVOPS Technology, Tools and Know-How
 
 ### Kubernetes
 
-* [Dynamic Secrets with HashiCorp Vault](https://github.com/fabriziocucci/spike-vault-kubernetes-auth-method)
 
 
 ### Platform Tools
@@ -64,6 +63,8 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Marathon Amazon AWS CLI](https://hub.docker.com/r/mesosphere/aws-cli/)
 * [Linux Performance Tools - cheatsheets](http://www.brendangregg.com/linuxperf.html)
 * [TerraForm Atlantis PR feedback](https://github.com/runatlantis/atlantis)
+* [HadoLint - Dockerfile validator](https://github.com/hadolint/hadolint)
+* [Dynamic Secrets with HashiCorp Vault](https://github.com/fabriziocucci/spike-vault-kubernetes-auth-method)
 
 #### DevOps/ChatOps/Bots
 
