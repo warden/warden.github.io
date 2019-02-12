@@ -76,6 +76,7 @@ Useful DEVOPS Technology, Tools and Know-How
 * [Workzone: PullRequest Workflow](https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow)
 * [Charts and Graphs / Statistics](https://marketplace.atlassian.com/apps/1212147/charts-graphs-for-bitbucket)
 * [BitBucket Slack PR notifier](https://github.com/Igogrek/bitbucket-slack-notifier)
+* [Groups in BitBucket Pull Requests](https://marketplace.atlassian.com/apps/1218598/code-owners-for-bitbucket-server?hosting=server&tab=overview)
 
 #### Jenkins - plugins
 
